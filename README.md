@@ -1,6 +1,6 @@
 # Hi, I'm Rett 👋
 
-Student at **Auburn University** building mobile apps, full-stack web, and AI tools.
+Software Engineering student at **Auburn University** building mobile apps, full-stack web, and AI tools.
 I like shipping real products: apps people actually use, with the security and testing to back them up.
 
 ## 🚀 Featured work

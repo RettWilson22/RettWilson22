@@ -1,4 +1,4 @@
-# Hi, I'm Rett 👋
+# Hi, I'm Rett
 
 Software Engineering student at **Auburn University** building mobile apps, full-stack web, and AI tools.
 
@@ -11,11 +11,11 @@ Software Engineering student at **Auburn University** building mobile apps, full
 | **[AI Education Chatbot](https://github.com/AI-Education-Chatbot-Team/RAG-model)** | Team RAG chatbot that answers questions from uploaded course documents. I built the CI/CD pipeline and test suite, and tracked down the cause of a production deploy bug. | Python · Streamlit · Supabase pgvector · Groq · GitHub Actions |
 | **[Taste & See](https://tasteandsee34.com)** | Live website for a local catering and event design business, with an owner edit mode, photo uploads, and a contact form. Security-hardened (CSP, HttpOnly sessions, upload validation). | HTML/CSS/JS · Netlify Functions & Edge Functions |
 
-## 🌐 Open source
+## Open source
 
 - **[RapidOCR #752](https://github.com/RapidAI/RapidOCR/pull/752)** (open): fix for OCR model files being written into the read-only package folder, which crashes OCR on hosted platforms. Reported in [#751](https://github.com/RapidAI/RapidOCR/issues/751).
 
-## 🛠️ Tech I work with
+## Tech I work with
 
 **Languages:** TypeScript · JavaScript · Python · Dart · Kotlin · SQL · C++
 **Mobile:** React Native · Expo · Flutter
@@ -23,5 +23,5 @@ Software Engineering student at **Auburn University** building mobile apps, full
 **AI:** RAG pipelines · embeddings & vector search · LLM APIs
 **Tools:** Git & GitHub Actions · pytest · Jest · EAS Build · Netlify
 
-## 📫 Reach me
+## Reach me
 GitHub [@RettWilson22](https://github.com/RettWilson22)

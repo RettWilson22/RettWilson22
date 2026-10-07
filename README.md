@@ -16,7 +16,7 @@ I like shipping real products: apps people actually use, with the security and t
 
 ## 🌐 Open source
 
-- **[RapidOCR #752](https://github.com/RapidAI/RapidOCR/pull/752)**: fixed model files being written into the read-only package folder, which crashed OCR on hosted platforms. Reported in [#751](https://github.com/RapidAI/RapidOCR/issues/751).
+- **[RapidOCR #752](https://github.com/RapidAI/RapidOCR/pull/752)** (open): fix for OCR model files being written into the read-only package folder, which crashes OCR on hosted platforms. Reported in [#751](https://github.com/RapidAI/RapidOCR/issues/751).
 
 ## 🛠️ Tech I work with
 

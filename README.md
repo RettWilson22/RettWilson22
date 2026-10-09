@@ -1,6 +1,6 @@
 # Hi, I'm Rett
 
-Software Engineering student at **Auburn University** building mobile apps, full-stack web, AI tools, and data pipelines.
+Software Engineering student at **Auburn University** (graduating December 2026) building mobile apps, full-stack web, AI tools, and data pipelines. I'm looking for new-grad software engineering roles.
 
 ## Featured work
 
@@ -15,6 +15,7 @@ Software Engineering student at **Auburn University** building mobile apps, full
 ## Open source
 
 - **[RapidOCR #752](https://github.com/RapidAI/RapidOCR/pull/752)** (merged): the text recognizer ignored the configured model folder for its character dictionary, and a string path crashed the PyTorch engine. I reported it in [#751](https://github.com/RapidAI/RapidOCR/issues/751) and sent the fix.
+- **Custom backgrounds for Nuvio** ([mobile](https://github.com/RettWilson22/NuvioMobile/tree/custom-backgrounds), [Android TV](https://github.com/RettWilson22/NuvioTV/tree/custom-backgrounds)): added color, gradient, and photo backgrounds with dim and blur controls to an open-source streaming app, in Kotlin Multiplatform and Compose for TV.
 
 ## For fun
 
@@ -30,4 +31,5 @@ Software Engineering student at **Auburn University** building mobile apps, full
 **Tools:** Git & GitHub Actions · pytest · Jest · EAS Build · Netlify
 
 ## Reach me
-GitHub [@RettWilson22](https://github.com/RettWilson22)
+
+Email j.rett.wilson@gmail.com · [LinkedIn](https://www.linkedin.com/in/rett-wilson22)

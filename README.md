@@ -14,11 +14,15 @@ Software Engineering student at **Auburn University** building mobile apps, full
 
 ## Open source
 
-- **[RapidOCR #752](https://github.com/RapidAI/RapidOCR/pull/752)** (open): fix for OCR model files being written into the read-only package folder, which crashes OCR on hosted platforms. Reported in [#751](https://github.com/RapidAI/RapidOCR/issues/751).
+- **[RapidOCR #752](https://github.com/RapidAI/RapidOCR/pull/752)** (merged): the text recognizer ignored the configured model folder for its character dictionary, and a string path crashed the PyTorch engine. I reported it in [#751](https://github.com/RapidAI/RapidOCR/issues/751) and sent the fix.
+
+## For fun
+
+- **[Saturation Guy](https://github.com/RettWilson22/saturation-guy)**: a Fabric mod for Minecraft 26.3. It shows your hidden saturation as a bar over the hunger bar (synced from the server every tick when the server has the mod too) and adds a few chat callouts, like announcing your pickaxe is about to break. Has an automated in-game test that boots the client and checks each feature.
 
 ## Tech I work with
 
-**Languages:** TypeScript · JavaScript · Python · Dart · Kotlin · SQL · C++
+**Languages:** TypeScript · JavaScript · Python · Java · Dart · Kotlin · SQL · C++
 **Mobile:** React Native · Expo · Flutter
 **Backend & data:** Supabase · PostgreSQL (RLS, triggers, RPCs) · Firebase · Edge Functions
 **Data engineering:** Databricks · Snowflake · dbt · PySpark · MLflow

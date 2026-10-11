@@ -11,12 +11,6 @@ Back to [my profile](https://github.com/RettWilson22).
 ## Mobile apps
 
 - [University Bubble](https://github.com/RettWilson22/university-bubble-showcase): a social app for Auburn students with group chats, DMs, dining, housing and events, now in TestFlight beta. The link has screenshots and architecture since the source is private. React Native, Expo and Supabase.
-- [Pantry Pal](https://github.com/RettWilson22/pantry-pal): a pantry inventory app with on-device barcode scanning. Flutter.
-- [Recipe Scanner](https://github.com/RettWilson22/recipe-scanner): scan grocery barcodes into a pantry, then get recipes ranked by how many ingredients you already have. Flutter.
-- [Recipe Explorer](https://github.com/RettWilson22/recipe_explorer): a recipe browser built on TheMealDB with Firebase sign-in. Flutter.
-- [Favorites App](https://github.com/RettWilson22/favorites-app): save favorites by category, with local storage and theme options. Flutter.
-- [2048](https://github.com/RettWilson22/game_2048): the 2048 puzzle game for phones. Flutter.
-- [Shape Studio](https://github.com/RettWilson22/shape_studio): a playground for shapes, gestures and animation. Flutter.
 
 ## Team and open-source work
 

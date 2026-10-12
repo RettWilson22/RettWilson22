@@ -6,14 +6,13 @@ Back to [my profile](https://github.com/RettWilson22).
 
 - [Taste & See](https://tasteandsee34.com): the live website for a local catering and event design business in Opelika, with an edit mode so the owner can update it without me. HTML, CSS and JavaScript on Netlify.
 - [City of Chester, IL](https://www.chesterill.com): the official website for the City of Chester, Illinois.
+- [Shelby County Circuit Clerk, IL](https://www.circuitclerk.shelbycounty-il.gov): the official website for the Shelby County, Illinois Circuit Clerk's office.
 - [Back of the Book](https://backofthebook.streamlit.app) ([code](https://github.com/RettWilson22/back-of-the-book)): answers questions from your course files with page citations and makes a quiz on any topic, with every answer checked against Wikipedia. Python, RAG and Streamlit.
 - [Gridiron Lakehouse](https://gridiron-lakehouse.streamlit.app) ([code](https://github.com/RettWilson22/gridiron-lakehouse)): a weekly fantasy football cheat sheet with projection ranges for every player, built on Databricks and Snowflake.
 
 ## Mobile apps
 
 - [University Bubble](https://github.com/RettWilson22/university-bubble-showcase): a social app for Auburn students with group chats, DMs, dining, housing and events, now in TestFlight beta. The link has screenshots and architecture since the source is private. React Native, Expo and Supabase.
-
-These are apps I built for local government agencies.
 
 ### Sheriff's offices and police
 

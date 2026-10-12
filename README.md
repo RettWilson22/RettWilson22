@@ -1,6 +1,6 @@
 # Hi, I'm Rett
 
-**[See all the apps and websites I've built](https://github.com/RettWilson22/RettWilson22/blob/main/PROJECTS.md)**
+**[See all the live apps and websites I've built](https://github.com/RettWilson22/RettWilson22/blob/main/PROJECTS.md)**
 
 I'm a Software Engineering student at Auburn University (graduating December 2026). I build mobile apps, full-stack web, AI tools and data pipelines, and I'm looking for new-grad software engineering roles.
 

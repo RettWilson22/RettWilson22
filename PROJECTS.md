@@ -12,8 +12,6 @@ Back to [my profile](https://github.com/RettWilson22).
 
 ## Mobile apps
 
-- [University Bubble](https://github.com/RettWilson22/university-bubble-showcase): a social app for Auburn students with group chats, DMs, dining, housing and events, now in TestFlight beta. The link has screenshots and architecture since the source is private. React Native, Expo and Supabase.
-
 ### Sheriff's offices and police
 
 - Albany Police Department, GA: [App Store](https://apps.apple.com/us/app/albany-ga-police-department/id1637730578), [Google Play](https://play.google.com/store/apps/details?id=com.ocv.a726)
@@ -74,6 +72,11 @@ Back to [my profile](https://github.com/RettWilson22).
 - San Bernardino County Fire, CA: [App Store](https://apps.apple.com/us/app/san-bernardino-county-fire-ca/id6740537692), [Google Play](https://play.google.com/store/apps/details?id=com.ocv.a1004)
 - Will County Emergency Management Agency, IL (Ready Will County): [App Store](https://apps.apple.com/us/app/ready-will-county/id1235140529), [Google Play](https://play.google.com/store/apps/details?id=com.ocvapps.a894)
 - Wiregrass Public Safety Center, Dothan, AL: [App Store](https://apps.apple.com/us/app/wiregrass-public-safety-center/id1503699598), [Google Play](https://play.google.com/store/apps/details?id=com.ocv.wiregrasspublicsafetycenter)
+
+### Miscellaneous
+
+- [University Bubble](https://github.com/RettWilson22/university-bubble-showcase): a social app for Auburn students with group chats, DMs, dining, housing and events, now in TestFlight beta. The link has screenshots and architecture since the source is private. React Native, Expo and Supabase.
+
 ## Team and open-source work
 
 - [AI Education Chatbot](https://github.com/AI-Education-Chatbot-Team/RAG-model): a team RAG chatbot for course documents. I wrote the deployment docs and change log and have a PR open that adds CI/CD and tests.
